@@ -40,7 +40,7 @@ That's it!
 # Path alias
 Absolute path is mapped to `src` folder. For example, you can import module located in `/src/components/myComponent/index.ts` like this:
 
-```
+```Typescript
 import myComponent from 'components/myComponent'
 ```
 
