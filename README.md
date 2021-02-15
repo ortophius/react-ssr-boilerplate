@@ -1,4 +1,4 @@
-# rrts-buoilerplate
+# rrrts-boilerplate
 My lightweight boilerplate for react + redux + typescript ssr applications
 
 There are no things like:
